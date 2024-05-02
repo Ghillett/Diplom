@@ -6,7 +6,7 @@
 4. Создать эмулятор (API 29);
 5. Синхронизировать Build Gradle;
    
-Тесты находятся в папке *fmh_android_15_03_24 (1)\app\src\androidTest\java\ru\iteco\fmhandroid\ui\tests*
+Тесты находятся в папке *fmh_android_15_03_24\app\src\androidTest\java\ru\iteco\fmhandroid\ui\tests*
 
 Тесты запускаются нажатием на стрелочку напротив класса теста.
 
